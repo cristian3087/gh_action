@@ -1,4 +1,4 @@
-"""Ejemplo de Flask con docker y kubernetes"""
+"""Ejemplo de Flask con docker y kubernetes y github actions"""
 from flask import Flask
 
 app = Flask(__name__)
